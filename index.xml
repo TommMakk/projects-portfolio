@@ -6,10 +6,16 @@
     <description>Recent content in Data Science Portfolio on Tommi Mäkelä</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Dec 2025 11:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://TommMakk.github.io/projects-portfolio/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 19 Dec 2025 11:00:00 +0000</lastBuildDate><atom:link href="https://TommMakk.github.io/projects-portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 3: Docker AI Agent — Containerized Automation Assistant for Business Workflows</title>
+      <link>https://TommMakk.github.io/projects-portfolio/post/project-3/</link>
+      <pubDate>Fri, 19 Dec 2025 11:00:00 +0000</pubDate>
+      
+      <guid>https://TommMakk.github.io/projects-portfolio/post/project-3/</guid>
+      <description>The Docker AI Agent is a coordinated suite of three interoperable services that work together to automate research, orchestration, and outreach.
+Supervisor acts as the orchestrator that manages tasks, routes work between agents, and enforces workflow rules. The Research AI Agent performs web and document discovery, extracts and synthesizes relevant information, and produces concise summaries. The Email sending AI Agent composes tailored messages and dispatches them via configurable SMTP or API gateways so teams can automate follow up and outreach at scale.</description>
+    </item>
     
     <item>
       <title>Project 2: Bank Customer Churn Classification</title>
@@ -17,7 +23,7 @@
       <pubDate>Tue, 09 Dec 2025 11:00:00 +0000</pubDate>
       
       <guid>https://TommMakk.github.io/projects-portfolio/post/project-2/</guid>
-      <description>Project Overview This project builds a machine learning model to predict customer churn in the banking sector. Using customer demographics, account information, and financial data, the model identifies customers at risk of leaving the bank.
+      <description>This project builds a machine learning model to predict customer churn in the banking sector. Using customer demographics, account information, and financial data, the model identifies customers at risk of leaving the bank.
 The solution is implemented end-to-end on Snowflake, leveraging Snowflake ML for feature engineering, model training, deployment, and inference. This approach enables a scalable, secure, and production-ready churn prediction system aligned with real-world banking requirements.
 The final model uses an XGBoost Classifier, achieving an accuracy of 87%, and is managed through Snowflake’s built-in model registry for versioning and governance.</description>
     </item>
@@ -29,19 +35,6 @@ The final model uses an XGBoost Classifier, achieving an accuracy of 87%, and is
       
       <guid>https://TommMakk.github.io/projects-portfolio/post/project-1/</guid>
       <description>The project, implemented using Python, forecasts store sales using historical unit sales data for thousands of items across multiple stores. Preprocessing involved handling missing values, encoding categories, and extracting date features, ensuring proper time-series formatting. Feature engineering included lag features, rolling stats, store-item patterns, and Ecuador national and local holidays, along with temporal patterns like trends and seasonality. ML models: The first used Linear Regression (scikit-learn) for baseline predictions, followed by Deep Learning (LSTM networks with TensorFlow) to improve accuracy by capturing complex temporal patterns.</description>
-    </item>
-    
-    <item>
-      <title>Project X: Coming Soon</title>
-      <link>https://TommMakk.github.io/projects-portfolio/post/project-3/</link>
-      <pubDate>Mon, 05 May 2025 11:00:00 -0400</pubDate>
-      
-      <guid>https://TommMakk.github.io/projects-portfolio/post/project-3/</guid>
-      <description>🚧 This is a placeholder for an upcoming project. 🚧
-I&amp;rsquo;m currently working on a new Data Science project that will be featured here soon. This section will showcase the problem, approach, tools used, and key results — just like my other projects.
-In the meantime, feel free to explore the other projects in my portfolio or check out my GitHub for recent activity.
-Stay tuned!
-Link to GitHub Repository</description>
     </item>
     
     <item>
