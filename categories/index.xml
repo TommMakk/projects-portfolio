@@ -5,10 +5,6 @@
     <link>https://TommMakk.github.io/projects-portfolio/categories/</link>
     <description>Recent content in Categories on Tommi Mäkelä</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://TommMakk.github.io/projects-portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://TommMakk.github.io/projects-portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
