@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Tommi Mäkelä</title>
+    <link>https://TommMakk.github.io/projects-portfolio/post/</link>
+    <description>Recent content in Projects on Tommi Mäkelä</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 May 2025 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://TommMakk.github.io/projects-portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 3: Docker AI Agent — Containerized Automation Assistant for Business Workflows</title>
+      <link>https://TommMakk.github.io/projects-portfolio/post/project-3/</link>
+      <pubDate>Fri, 19 Dec 2025 11:00:00 +0000</pubDate>
+      
+      <guid>https://TommMakk.github.io/projects-portfolio/post/project-3/</guid>
+      <description>The Docker AI Agent is a coordinated suite of three interoperable services that work together to automate research, orchestration, and outreach.
+Supervisor acts as the orchestrator that manages tasks, routes work between agents, and enforces workflow rules. The Research AI Agent performs web and document discovery, extracts and synthesizes relevant information, and produces concise summaries. The Email sending AI Agent composes tailored messages and dispatches them via configurable SMTP or API gateways so teams can automate follow up and outreach at scale.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Bank Customer Churn Classification</title>
+      <link>https://TommMakk.github.io/projects-portfolio/post/project-2/</link>
+      <pubDate>Tue, 09 Dec 2025 11:00:00 +0000</pubDate>
+      
+      <guid>https://TommMakk.github.io/projects-portfolio/post/project-2/</guid>
+      <description>This project builds a machine learning model to predict customer churn in the banking sector. Using customer demographics, account information, and financial data, the model identifies customers at risk of leaving the bank.
+The solution is implemented end-to-end on Snowflake, leveraging Snowflake ML for feature engineering, model training, deployment, and inference. This approach enables a scalable, secure, and production-ready churn prediction system aligned with real-world banking requirements.
+The final model uses an XGBoost Classifier, achieving an accuracy of 87%, and is managed through Snowflake’s built-in model registry for versioning and governance.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Store Sales Forecasting</title>
+      <link>https://TommMakk.github.io/projects-portfolio/post/project-1/</link>
+      <pubDate>Sun, 29 Jun 2025 21:54:08 -0400</pubDate>
+      
+      <guid>https://TommMakk.github.io/projects-portfolio/post/project-1/</guid>
+      <description>The project, implemented using Python, forecasts store sales using historical unit sales data for thousands of items across multiple stores. Preprocessing involved handling missing values, encoding categories, and extracting date features, ensuring proper time-series formatting. Feature engineering included lag features, rolling stats, store-item patterns, and Ecuador national and local holidays, along with temporal patterns like trends and seasonality. ML models: The first used Linear Regression (scikit-learn) for baseline predictions, followed by Deep Learning (LSTM networks with TensorFlow) to improve accuracy by capturing complex temporal patterns.</description>
+    </item>
+    
+  </channel>
+</rss>
